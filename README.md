@@ -1,1 +1,9 @@
-# analysing_twitter
+## Analysis of Twitter
+
+## Introduction
+
+## Purpose
+
+## Data Set Information
+
+## Analysis
