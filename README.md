@@ -1,5 +1,5 @@
 ## Analysis of Twitter
-Twitter API analysis.
+The goal of this project is to analyse sentiment through Twitter API.
 
 
 ## Introduction
