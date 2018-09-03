@@ -11,4 +11,5 @@ The goal of this project is to perform a sentiment analysis with Twitter API.
 
 ## Analysis
 -Reading from Twitter API
--ML with TensorFlow
+-Machine Learning with TensorFlow
+
