@@ -11,6 +11,8 @@ To analysis in a specific area.
 
 ## Data Set Information
 
+Twitter API was used. From developer account
+
 ## Analysis
 -Reading from Twitter API  
 -Machine Learning with TensorFlow
