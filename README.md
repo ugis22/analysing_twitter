@@ -7,6 +7,7 @@ Sentiment analysis is a modern form of understanding what people thinks and beli
 
 ## Purpose
 
+To analysis in a specific area.
 
 ## Data Set Information
 
