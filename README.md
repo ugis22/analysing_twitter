@@ -14,6 +14,13 @@ To analysis in a specific area.
 Twitter API was used. From developer account
 
 ## Analysis
+
+This repository contains three files:
+
+- `DatabaseStoreStreaming.ipybn`
+- `Analysis of Twitter.ipybn`
+- `Interaction Network.ipybn`
+
 -Reading from Twitter API  
 -Machine Learning with TensorFlow
 
