@@ -1,3 +1,6 @@
 twitter_credentials.py
 postgres_creadential.py
 postgres_credentials.py
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
