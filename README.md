@@ -33,7 +33,7 @@ Relational databases such as PostgreSQL has a great performance handling JSON so
 This repository contains three files:
 
 - `DatabaseStoreStreaming.ipybn` answers to the goal #1. Connects to a database, creates tables and store tweets in them,   overload tweepy class to listen and capture realtime tweets.
-- `Analysis of Twitter.ipybn`
+- `Analysis of Twitter.ipybn`answer to goals #2 and #3. Retrieve tweets stored in the previous step and handle them in a pandas `DataFrame`, preprocess the tweet text, visualize the data and build a neural network to analyse the sentiment. 
 - `Interaction Network.ipybn`
 
 The whole analysis was done using JupyterLab and Python, using libraries such as: psycopg2, tweepy, pandas, matplotlib, and keras.
