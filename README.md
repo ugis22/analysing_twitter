@@ -3,7 +3,7 @@
 Read about this project in Medium:  
 
 -[How to build a PostgreSQL database to store tweets](https://towardsdatascience.com/how-to-build-a-postgresql-database-to-store-tweets-1be9c1d48c7)    
--[Keras Challenges the Avengers](https://towardsdatascience.com/keras-challenges-the-avengers-541346acb804) 
+-[Keras Challenges the Avengers](https://towardsdatascience.com/keras-challenges-the-avengers-541346acb804)  
 -[Visualizing interactions with NetworkX]
 
 
