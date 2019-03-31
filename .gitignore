@@ -5,3 +5,5 @@ tweets.txt
 __pycache__/
 postgres_credentials.py
 twitter_credentials.py
+tweets.txt
+tweets.txt
