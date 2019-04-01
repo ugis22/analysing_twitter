@@ -7,3 +7,5 @@ postgres_credentials.py
 twitter_credentials.py
 tweets.txt
 tweets.txt
+model.json
+model.h5
