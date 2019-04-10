@@ -9,3 +9,5 @@ tweets.txt
 tweets.txt
 model.json
 model.h5
+tweets_final.csv
+tweets_final_sentiment.csv
