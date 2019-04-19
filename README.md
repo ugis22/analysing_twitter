@@ -4,7 +4,7 @@ Read about this project in Medium:
 
 -[How to build a PostgreSQL database to store tweets](https://towardsdatascience.com/how-to-build-a-postgresql-database-to-store-tweets-1be9c1d48c7)    
 -[Keras Challenges the Avengers](https://towardsdatascience.com/keras-challenges-the-avengers-541346acb804)  
--[Visualizing interactions with NetworkX]
+-[Visualizing interactions with NetworkX](https://medium.com/@meinzaugarat/visualizing-twitter-interactions-with-networkx-a391da239af5)
 
 
 ## Introduction
@@ -35,9 +35,9 @@ This repository contains three files:
 - `DatabaseStoreStreaming.ipybn` answers to the goal #1. Connects to a database, creates tables and store tweets in them,   overload tweepy class to listen and capture realtime tweets.
 - `Cleaning DB.ipybn` cleans the database by removing any duplicated tweet that was collected.
 - `Analysis of Twitter.ipybn`answer to goals #2 and #3. Retrieve tweets stored in the previous step and handle them in a pandas `DataFrame`, preprocess the tweet text, visualize the data and build a neural network to analyse the sentiment. 
-- `Interaction Network.ipybn`
+- `Interaction Network.ipybn` answers to goal #4. Gets interaction (retweets, replies and mentions) between Twitter users who have tweet about Avengers and generates a Graph to visualize those interactions.
 
-The whole analysis was done using JupyterLab and Python, using libraries such as: psycopg2, tweepy, pandas, matplotlib, and keras.
+The whole analysis was done using JupyterLab and Python, using libraries such as: psycopg2, tweepy, pandas, matplotlib, networkx, scikit-learn and keras.
 
 
 
