@@ -12,6 +12,7 @@ Read about this project in Medium:
 Twitter is used every day by people to express their feelings or thoughts, specially about something that it is happening at the moment or has just occurred; by companies to promote products or services; by journalists to comment on events or write news; and the list can go on. There is no doubt that analyzing twitter and tweets is a powerful tool that can give us a sense on the public opinion about a topic that we are interested in.
 Fortunately, Twitter provides us with an API (that stands for ‘Application Programming Interface’) which we can interact with creating an app and in that way, access and filter public tweets.
 Of particular interest to me is knowing what people are feeling about the Avengers. So I will use “avengers” as my term of interest and analyze the public opinion on this. 
+Neural networks will be used to perform the sentiment analysis. Check my [repository](https://github.com/ugis22/neuralnetwork) and my [medium post](https://towardsdatascience.com/understanding-neural-networks-what-how-and-why-18ec703ebd31) to learn more about how neural networks work.
 
 ## Purpose
 
