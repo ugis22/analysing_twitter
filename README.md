@@ -42,5 +42,3 @@ This repository contains three files:
 The whole analysis was done using JupyterLab and Python, using libraries such as: psycopg2, tweepy, pandas, matplotlib, networkx, scikit-learn and keras.
 
 ![](graphfinal.png)
-
-
